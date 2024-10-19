@@ -35,7 +35,7 @@ const HomePage = () => {
             </div>
           </div>
           <div className="md:w-1/2">
-            <img src="/hero-image.png" alt="Happy person with a dog" className="w-full rounded-lg shadow-lg" />
+            <img src="/hero-image.jpg" alt="Happy person with a dog" className="w-full rounded-lg shadow-lg" />
           </div>
         </div>
         
